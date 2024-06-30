@@ -16,7 +16,7 @@ class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
         
-        self.setWindowTitle("Heniken's Branding Analysis")
+        self.setWindowTitle("Heineken's Branding Analysis")
         self.setGeometry(100, 100, 1200, 800)
         
         self.layout = QVBoxLayout()
