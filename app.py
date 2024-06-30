@@ -75,7 +75,7 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
-st.markdown('<h1 class="title">Heniken&#39;s Branding Analysis</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="title">Heineken&#39;s Branding Analysis</h1>', unsafe_allow_html=True)
 st.write("Upload an image of a beer to detect its label.")
 
 # Combobox for selecting scenario
