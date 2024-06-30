@@ -28,3 +28,10 @@ To run this project, you need to have Python installed on your system. Then, cre
    https://drive.google.com/file/d/1FA7tzOFb1nvjAsDnTjcvVHj3tywZChzb/view?usp=drive_link
    ```
    Put the trained model into the project's root folder.
+3. **Install the dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+### Usage
+
+
