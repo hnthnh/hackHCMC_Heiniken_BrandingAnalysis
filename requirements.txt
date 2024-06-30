@@ -1,0 +1,6 @@
+streamlit
+ultralytics
+cv2
+PIL
+numpy
+openai==0.28
