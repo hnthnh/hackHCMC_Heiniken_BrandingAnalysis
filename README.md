@@ -24,14 +24,21 @@ To run this project, you need to have Python installed on your system. Then, cre
    git clone https://github.com/your-username/branding-analysis.git
    cd branding-analysis
 2. **Down load the trained model**:
+   Put the trained model into project's root folder.   
    ```bash
    https://drive.google.com/file/d/1FA7tzOFb1nvjAsDnTjcvVHj3tywZChzb/view?usp=drive_link
    ```
-   Put the trained model into the project's root folder.
-3. **Install the dependencies**:
+
+4. **Install the dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
 ### Usage
+1. **Run the Streamlit application:**:
+   ```bash
+   streamlit run app.py
+   ```
+2. Upload Images: Use the interface to upload images for analysis.
+3. Get Insights: View the detailed analysis and insights provided by the tool.
 
 
