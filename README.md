@@ -22,7 +22,7 @@ To run this project, you need to have Python installed on your system. Then, cre
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/hnthnh/hackHCMC_Heiniken_BrandingAnalysis.git
-   cd branding-analysis
+   cd hackHCMC_Heiniken_BrandingAnalysis
 2. **Down load the trained model**:
    Put the trained model into project's root folder.   
    ```bash
